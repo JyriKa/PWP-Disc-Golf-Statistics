@@ -1,8 +1,6 @@
-# PWP SPRING 2019
-# PROJECT NAME
+# PWP SUMMER 2019
+# Disc Golf Statistics
 # Group information
-* Student 1. Name and email
-* Student 2. Name and email
-* Student 3. Name and email
+* Student 1. Jyri jyri.jk@gmail.com
 
 
